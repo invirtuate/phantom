@@ -4,8 +4,6 @@ Authorization middleware for [Fiber](https://github.com/gofiber/fiber).
 
 ## Usage
 
-More details about this middleware can be found at [How to use authorization to secure REST APIs](http://invirtuate.com/blog/golang/how-to-use-authorization-to-secure-rest-apis).
-
 This middleware by itself does not include any authorization callbacks, you must code them yourself.
 
 Examples are in `internal/` and `cmd/example/main.go`.
